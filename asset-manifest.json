@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DateAdder/static/css/main.7bcdac07.css",
+    "main.js": "/DateAdder/static/js/main.529af874.js",
+    "index.html": "/DateAdder/index.html",
+    "main.7bcdac07.css.map": "/DateAdder/static/css/main.7bcdac07.css.map",
+    "main.529af874.js.map": "/DateAdder/static/js/main.529af874.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bcdac07.css",
+    "static/js/main.529af874.js"
+  ]
+}
